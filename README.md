@@ -93,13 +93,16 @@ Before forecasting, we checked for **stationarity** using the **Augmented Dickey
 
 📊 **Visualizations of the Forecast**:
 ### **📊 GDP Growth Forecast**
-![GDP Growth Forecast](./charts/Forecast_growth_Greece_5years.png)
+![GDP Growth Forecast](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting/blob/main/Forecast_growth_Greece_5years.png?raw=true)
+
 
 ### **📊 Inflation Rate Forecast**
-![Inflation Rate Forecast](./charts/Forecast_inflation_Greece_5years.png)
+![Inflation Rate Forecast](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting/blob/main/Forecast_inflation_Greece_5years.png?raw=true)
+
 
 ### **📊 Unemployment Rate Forecast**
-![Unemployment Rate Forecast](./charts/Forecast_unemployment_Greece_5years.png)
+![Unemployment Rate Forecast](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting/blob/main/Forecast_unemployment_Greece_5years.png?raw=true)
+
 
 ---
 
