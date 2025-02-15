@@ -48,7 +48,7 @@ We calculated **Pearson correlation coefficients** and visualized them using a h
 - **GDP Growth vs. Inflation** → **0.16 (Weak Positive Correlation)**  
   - Inflation slightly increases as GDP grows, but the relationship is weak.  
 
-📊 **[See the correlation heatmap here](./charts/Correlation_Matrix_growth_inflation_unemployment.png)**  
+📊 **[See the correlation heatmap here](https://github.com/konstantinosmanos/Economic_Indicators_Forecasting/blob/main/Correlation_Matrix__growth_inflation_unemployment.png?raw=true)**
 
 ---
 
